@@ -4,7 +4,7 @@ import './menu.styles.scss'
 import Card from '../category-item/category-item.component'
 import data from './data.json'
 
-export default function Menu() {
+const Menu = () => {
     return (
         <div className="categories-container">
           {
@@ -15,3 +15,5 @@ export default function Menu() {
         </div>
   )
 }
+
+export default Menu;
