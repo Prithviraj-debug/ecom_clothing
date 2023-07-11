@@ -1,0 +1,17 @@
+.authentication-container {
+    display: flex;
+    justify-content: space-between;
+    width: 900px;
+    margin: 30px auto;
+}
+
+@media (max-width: 1000px) {
+    .authentication-container {
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .sign-in-container {
+        margin-bottom: 50px;
+    }
+}
