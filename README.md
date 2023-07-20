@@ -1,3 +1,4 @@
+![ecom](https://github.com/Prithviraj-debug/ecom_clothing/assets/57887221/9c3a692d-b42d-4a48-9919-6c8609f0db1f)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
