@@ -6,19 +6,18 @@
     margin-bottom: 25px;
   
     .logo-container {
-      height: 100%;
-      width: 70px;
-      padding: 25px;
+      margin: auto 0;
     }
   
     .nav-links-container {
-      width: 50%;
+      width: 60%;
       height: 100%;
       display: flex;
       align-items: center;
       justify-content: flex-end;
   
       .nav-link {
+        width: fit-content;
         padding: 10px 15px;
         cursor: pointer;
       }
